@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "vadetaxi",
+    "host": "172.26.0.2",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "vadetaxi",
+    "host": "172.26.0.2",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "vadetaxi",
+    "host": "172.26.0.2",
+    "dialect": "mysql"
+  }
+}
